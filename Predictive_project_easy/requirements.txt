@@ -1,0 +1,14 @@
+pandas 
+matplotlib
+numpy
+missingno
+polars
+pyarrow
+seaborn
+torch
+tensorflow
+nvidia
+keras
+jupyter
+torchmetrics
+lifelines
